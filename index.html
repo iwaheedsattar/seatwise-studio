@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Seatwise Studio</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace">
+        <aside class="panel setup-panel" aria-label="Event setup">
+          <div class="brand-row">
+            <div>
+              <p class="eyebrow">Local hosting desk</p>
+              <h1>Seatwise Studio</h1>
+            </div>
+            <span class="status-pill">Private</span>
+          </div>
+
+          <form id="eventForm" class="form-grid">
+            <label>
+              Event name
+              <input name="title" type="text" value="Saturday Supper Club" />
+            </label>
+            <div class="field-row">
+              <label>
+                Date
+                <input name="date" type="date" value="2026-07-18" />
+              </label>
+              <label>
+                Time
+                <input name="startTime" type="time" value="18:30" />
+              </label>
+            </div>
+            <div class="field-row">
+              <label>
+                Budget
+                <input name="budget" type="number" min="0" value="220" />
+              </label>
+              <label>
+                Table size
+                <input name="tableSize" type="number" min="2" max="8" value="4" />
+              </label>
+            </div>
+            <label>
+              Host notes
+              <textarea name="notes" rows="4">Small apartment, one oven, want low-stress prep and a good mix of old and new friends.</textarea>
+            </label>
+            <label>
+              Guest list
+              <textarea id="guestText" rows="11" spellcheck="false"></textarea>
+            </label>
+          </form>
+
+          <div class="button-row">
+            <button id="planButton" class="primary-button" type="button">Build plan</button>
+            <button id="copyButton" class="secondary-button" type="button">Copy brief</button>
+          </div>
+          <p class="hint">Format: name | dietary need | close: names | avoid: names | note: detail</p>
+        </aside>
+
+        <section class="results" aria-live="polite">
+          <div class="top-strip">
+            <div>
+              <p class="eyebrow">Ready for hosting</p>
+              <h2 id="eventTitle">Saturday Supper Club</h2>
+            </div>
+            <div class="score-block">
+              <span id="comfortScore">92</span>
+              <small>comfort score</small>
+            </div>
+          </div>
+
+          <section class="metric-grid">
+            <div class="metric">
+              <span id="guestCount">8</span>
+              <small>guests</small>
+            </div>
+            <div class="metric">
+              <span id="budgetPerGuest">$27.50</span>
+              <small>per guest</small>
+            </div>
+            <div class="metric">
+              <span id="watchoutCount">0</span>
+              <small>watchouts</small>
+            </div>
+          </section>
+
+          <section class="section-block">
+            <div class="section-title">
+              <h3>Seating Plan</h3>
+              <span id="tableCount">2 tables</span>
+            </div>
+            <div id="tables" class="table-grid"></div>
+          </section>
+
+          <section class="split-grid">
+            <div class="section-block">
+              <div class="section-title">
+                <h3>Dietary Guardrails</h3>
+              </div>
+              <ul id="guardrails" class="check-list"></ul>
+            </div>
+            <div class="section-block">
+              <div class="section-title">
+                <h3>Budget Split</h3>
+              </div>
+              <div id="budgetLines" class="budget-list"></div>
+            </div>
+          </section>
+
+          <section class="split-grid">
+            <div class="section-block">
+              <div class="section-title">
+                <h3>Prep Timeline</h3>
+              </div>
+              <ol id="timeline" class="timeline"></ol>
+            </div>
+            <div class="section-block">
+              <div class="section-title">
+                <h3>Table Prompts</h3>
+              </div>
+              <div id="prompts" class="prompt-list"></div>
+            </div>
+          </section>
+        </section>
+      </section>
+    </main>
+    <script src="./src/planner.js"></script>
+    <script src="./src/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="930" viewBox="0 0 1440 930">
+  <rect width="1440" height="930" fill="#f7f4ee"/>
+  <rect x="24" y="24" width="392" height="882" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="48" y="67" fill="#824c62" font-family="Arial, sans-serif" font-size="14" font-weight="700">LOCAL HOSTING DESK</text>
+  <text x="48" y="106" fill="#25221d" font-family="Arial, sans-serif" font-size="34" font-weight="800">Seatwise Studio</text>
+  <rect x="310" y="55" width="76" height="32" rx="16" fill="#edf5ee" stroke="#a9c2b1"/>
+  <text x="328" y="76" fill="#315d47" font-family="Arial, sans-serif" font-size="13" font-weight="700">Private</text>
+  <text x="48" y="154" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">Event name</text>
+  <rect x="48" y="166" width="320" height="44" rx="7" fill="#ffffff" stroke="#ded6c9"/>
+  <text x="62" y="194" fill="#25221d" font-family="Arial, sans-serif" font-size="16">Saturday Supper Club</text>
+  <text x="48" y="246" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">Budget</text>
+  <rect x="48" y="258" width="152" height="44" rx="7" fill="#ffffff" stroke="#ded6c9"/>
+  <text x="62" y="286" fill="#25221d" font-family="Arial, sans-serif" font-size="16">220</text>
+  <text x="216" y="246" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">Table size</text>
+  <rect x="216" y="258" width="152" height="44" rx="7" fill="#ffffff" stroke="#ded6c9"/>
+  <text x="230" y="286" fill="#25221d" font-family="Arial, sans-serif" font-size="16">4</text>
+  <text x="48" y="342" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">Guest list</text>
+  <rect x="48" y="356" width="320" height="318" rx="7" fill="#ffffff" stroke="#ded6c9"/>
+  <text x="64" y="387" fill="#25221d" font-family="Arial, sans-serif" font-size="15">Avery | vegetarian | close: Maya</text>
+  <text x="64" y="418" fill="#25221d" font-family="Arial, sans-serif" font-size="15">Maya | gluten-free | close: Avery</text>
+  <text x="64" y="449" fill="#25221d" font-family="Arial, sans-serif" font-size="15">Theo | no pork | close: Sam</text>
+  <text x="64" y="480" fill="#25221d" font-family="Arial, sans-serif" font-size="15">Priya | vegan | close: Lena</text>
+  <text x="64" y="511" fill="#25221d" font-family="Arial, sans-serif" font-size="15">Sam | dairy-free | note: new</text>
+  <rect x="48" y="704" width="206" height="46" rx="7" fill="#824c62"/>
+  <text x="115" y="734" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="700">Build plan</text>
+  <rect x="266" y="704" width="102" height="46" rx="7" fill="#eadfce"/>
+  <text x="285" y="734" fill="#25221d" font-family="Arial, sans-serif" font-size="16" font-weight="700">Copy brief</text>
+  <rect x="436" y="24" width="980" height="124" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="462" y="67" fill="#824c62" font-family="Arial, sans-serif" font-size="14" font-weight="700">READY FOR HOSTING</text>
+  <text x="462" y="108" fill="#25221d" font-family="Arial, sans-serif" font-size="34" font-weight="800">Saturday Supper Club</text>
+  <rect x="1280" y="46" width="92" height="80" rx="8" fill="#6f8d7a"/>
+  <text x="1302" y="86" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="800">92</text>
+  <text x="1296" y="108" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="700">comfort score</text>
+  <rect x="436" y="168" width="306" height="82" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="462" y="206" fill="#25221d" font-family="Arial, sans-serif" font-size="26" font-weight="800">8</text>
+  <text x="462" y="229" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">guests</text>
+  <rect x="773" y="168" width="306" height="82" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="799" y="206" fill="#25221d" font-family="Arial, sans-serif" font-size="26" font-weight="800">$27.50</text>
+  <text x="799" y="229" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">per guest</text>
+  <rect x="1110" y="168" width="306" height="82" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="1136" y="206" fill="#25221d" font-family="Arial, sans-serif" font-size="26" font-weight="800">0</text>
+  <text x="1136" y="229" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">watchouts</text>
+  <rect x="436" y="270" width="980" height="292" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="462" y="312" fill="#25221d" font-family="Arial, sans-serif" font-size="19" font-weight="800">Seating Plan</text>
+  <text x="1322" y="312" fill="#6d665d" font-family="Arial, sans-serif" font-size="14" font-weight="700">2 tables</text>
+  <rect x="462" y="338" width="446" height="190" rx="8" fill="#ffffff" stroke="#ded6c9"/>
+  <text x="484" y="372" fill="#25221d" font-family="Arial, sans-serif" font-size="18" font-weight="800">Table 1</text>
+  <rect x="484" y="394" width="178" height="42" rx="7" fill="#faf7f0"/>
+  <rect x="484" y="394" width="5" height="42" fill="#c58b36"/>
+  <text x="502" y="421" fill="#25221d" font-family="Arial, sans-serif" font-size="15" font-weight="700">Avery</text>
+  <text x="584" y="421" fill="#6d665d" font-family="Arial, sans-serif" font-size="13">vegetarian</text>
+  <rect x="690" y="394" width="178" height="42" rx="7" fill="#faf7f0"/>
+  <rect x="690" y="394" width="5" height="42" fill="#c58b36"/>
+  <text x="708" y="421" fill="#25221d" font-family="Arial, sans-serif" font-size="15" font-weight="700">Maya</text>
+  <text x="774" y="421" fill="#6d665d" font-family="Arial, sans-serif" font-size="13">gluten-free</text>
+  <rect x="462" y="582" width="474" height="284" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="488" y="624" fill="#25221d" font-family="Arial, sans-serif" font-size="19" font-weight="800">Prep Timeline</text>
+  <line x1="493" y1="656" x2="493" y2="814" stroke="#506d91" stroke-width="4"/>
+  <text x="514" y="666" fill="#824c62" font-family="Arial, sans-serif" font-size="14" font-weight="800">3 days before</text>
+  <text x="514" y="690" fill="#6d665d" font-family="Arial, sans-serif" font-size="15">Confirm final guest count and missing dietary notes.</text>
+  <text x="514" y="738" fill="#824c62" font-family="Arial, sans-serif" font-size="14" font-weight="800">Morning of</text>
+  <text x="514" y="762" fill="#6d665d" font-family="Arial, sans-serif" font-size="15">Set tables, label seats, chill drinks, stage platters.</text>
+  <rect x="960" y="582" width="456" height="284" rx="8" fill="#fffdf8" stroke="#ded6c9"/>
+  <text x="986" y="624" fill="#25221d" font-family="Arial, sans-serif" font-size="19" font-weight="800">Dietary Guardrails</text>
+  <rect x="988" y="656" width="16" height="16" rx="4" fill="#6f8d7a"/>
+  <text x="1018" y="670" fill="#6d665d" font-family="Arial, sans-serif" font-size="15">Label every dish before guests arrive.</text>
+  <rect x="988" y="706" width="16" height="16" rx="4" fill="#6f8d7a"/>
+  <text x="1018" y="720" fill="#6d665d" font-family="Arial, sans-serif" font-size="15">Make the main side plant-forward.</text>
+  <rect x="988" y="756" width="16" height="16" rx="4" fill="#6f8d7a"/>
+  <text x="1018" y="770" fill="#6d665d" font-family="Arial, sans-serif" font-size="15">Avoid cross-contact with separate utensils.</text>
+</svg>
